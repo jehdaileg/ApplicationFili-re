@@ -1,0 +1,19 @@
+.margetop {
+	margin-top: 60px;
+}
+
+.editpwdPage h1,h2 {
+  color: blue;
+}
+
+.voirAncienMotDePasse {
+	position: absolute;
+	right: -35px;
+	top: 0px;
+}
+
+.voirNouveauMotDePasse {
+	position: absolute;
+	right: -35px;
+	top: 0px;
+}
